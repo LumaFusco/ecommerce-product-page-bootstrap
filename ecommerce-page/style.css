@@ -17,9 +17,10 @@
   }
 
   .main-img{
-    max-width: 48,75 rem;
+    max-width:600px;
   }
 
-  .sub-img{
-    max-width: 9,37 rem;
+  .mini-img{
+    max-width:140px;
   }
+  
