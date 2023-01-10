@@ -11,3 +11,15 @@
     color:rgba(149, 149, 15, 0.781);
 
   }
+
+  .avatar{
+    width: 40px
+  }
+
+  .main-img{
+    max-width: 48,75 rem;
+  }
+
+  .sub-img{
+    max-width: 9,37 rem;
+  }
